@@ -1,0 +1,6 @@
+name: This is new
+description: This is my new custom module.
+package: Custom module
+type: module
+version: 1.0
+core: 8.x

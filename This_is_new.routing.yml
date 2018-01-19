@@ -1,0 +1,5 @@
+hello.content:
+  path: '/custom_module'
+  defaults:
+    _controller: '\Drupal\This_is_new\Controller\NewController::newMethod'
+    _title: 'New Custom Module'
